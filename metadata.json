@@ -1,0 +1,5 @@
+{
+  "name": "フォトスタンプ AI",
+  "description": "写真から撮影場所と日付を自動で読み取り、美しいスタンプを付けてダウンロードできるアプリです。",
+  "requestFramePermissions": []
+}
