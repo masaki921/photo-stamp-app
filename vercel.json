@@ -1,8 +1,0 @@
-
-{
-  "functions": {
-    "api/location": {
-      "maxDuration": 30
-    }
-  }
-}
