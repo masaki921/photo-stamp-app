@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/location.ts": {
+      "maxDuration": 30
+    }
+  }
+}
